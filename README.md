@@ -64,7 +64,7 @@ Este proyecto es una página web de ejemplo creada con **HTML**, **CSS** y el fr
 ```
 ---
 
-## Estructura del Proyecto
+## Estructura del Proyectos
 
 ```bash
 El proyecto sigue la siguiente estructura de carpetas:
